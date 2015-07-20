@@ -1,7 +1,7 @@
 {
   "name": "github-unstar-all",
-  "version": "0.0.1",
-  "description": "Start fresh. Unstar all starred repositories on GitHub.",
+  "version": "1.0.0",
+  "description": "Start anew. Unstar all of the repositories you once starred on GitHub. ",
   "license": "MIT",
   "repository": "alexbooker/github-unstar-all",
   "author": {
@@ -12,9 +12,6 @@
   "bin": "cli.js",
   "engines": {
     "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
   },
   "files": [
     "index.js",
