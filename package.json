@@ -1,0 +1,34 @@
+{
+  "name": "github-unstar-all",
+  "version": "0.0.1",
+  "description": "Start fresh. Unstar all starred repositories on GitHub.",
+  "license": "MIT",
+  "repository": "alexbooker/github-unstar-all",
+  "author": {
+    "name": "alexbooker",
+    "email": "alexbooker@fastmail.im",
+    "url": "github.com/alexbooker/github-unstar-all"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "github",
+    "unstar"
+  ],
+  "dependencies": {
+    "async": "^1.4.0",
+    "github": "^0.2.4",
+    "meow": "^3.3.0"
+  }
+}
