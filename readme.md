@@ -13,7 +13,7 @@ $ npm install --global github-unstar-all
 $ github-unstar-all <username> <password>
 ```
 
-_:warning: Running this command will **ireversibly** unstar all of your [starred repositories](https://github.com/stars)!_
+_:warning: Running this command will **irreversibly** unstar all of your [starred repositories](https://github.com/stars)!_
 
 ##API
 
