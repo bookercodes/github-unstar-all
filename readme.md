@@ -11,7 +11,13 @@ $ npm install --global github-unstar-all
 ```
 
 ```
+DEPRECATED
 $ github-unstar-all <username> <password>
+```
+
+```
+NEW
+$ github-unstar-all <username> <personal-acccess-token>
 ```
 
 _:warning: Running this command will **irreversibly** unstar all of your [starred repositories](https://github.com/stars)!_
